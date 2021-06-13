@@ -1,2 +1,18 @@
-# mediapark-bellum-sacrum
-2002-2021
+---------------------------
+| mediapark-bellum-sacrum |
+---------------------------
+
+
+# pulpit
+https://en.wikipedia.org/wiki/Pulpit
+
+# mediapark
+https://nl.wikipedia.org/wiki/Media_Park
+
+# religious war
+https://en.wikipedia.org/wiki/Religious_war
+
+# netherlands
+https://en.wikipedia.org/wiki/Netherlands
+
+bemoeigurus at work © 2002-2021
